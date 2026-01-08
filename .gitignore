@@ -1,0 +1,5 @@
+temp_*.mp3
+output.mp3
+__pycache__/
+*.pyc
+.venv/
