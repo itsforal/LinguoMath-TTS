@@ -1,14 +1,14 @@
-# LinguoMath TTS 🎙️📐
+# LinguoMath TTS 🎙️
 
-A professional-grade Text-to-Speech (TTS) engine designed to convert complex **Markdown** documents and **LaTeX Mathematics** into high-quality audio. This tool is specifically optimized for bilingual content (**Persian & English**).
+A custom-built Text-to-Speech (TTS) pipeline designed to convert complex **Markdown** documents and **LaTeX Mathematics** into high-quality audio. This tool is specifically optimized for bilingual content (**Persian & English**).
 
-## ✨ Key Features
+##  Key Features
 - **Smart Voice Switching:** Automatically detects language at the sentence level to switch between Persian (Dilara) and English (Jenny) voices.
 - **LaTeX Math Support:** Intelligently verbalizes mathematical formulas (fractions, sums, Greek letters) into natural English speech.
 - **Asynchronous Pipeline:** Uses `asyncio` to synthesize audio segments in parallel, significantly reducing processing time.
 - **Markdown Friendly:** Automatically cleans headers, bold text, and lists for a seamless listening experience.
 
-## 🚀 Installation
+##  Installation
 
 1. **Prerequisites:** 
    - Python 3.8+
